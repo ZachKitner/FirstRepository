@@ -1,0 +1,40 @@
+h1 {
+	text-align:center;
+	font-family: ariel;
+	text-decoration-line: underline;
+}
+
+p {
+	font-family: ariel;
+
+}
+a {
+	text-align: center; 
+	font-family:  ariel;
+	margin: 10px 10px 10px 10px;
+
+}
+p.paddingbottom {
+		margin-top: 50px;
+
+}
+
+  img {
+  width:50%;height:55%;
+    margin: auto; 
+  display: block;
+  } 
+  
+  p.paddingtop {
+	margin-top: 50px;
+  }
+  body {
+
+  	backround-color: lightgrey;
+  	
+  	  }
+  	  h2 {
+	text-align:center;
+	font-family: ariel;
+	
+}
